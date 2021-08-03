@@ -1,0 +1,75 @@
+html{
+  background: #AED6F1;
+  
+}
+
+#Borde{
+  
+  border: outset 5px;
+  border-top-color: #A6ACAF;
+  border-bottom-color: #909497;
+  border-left-color: #A6ACAF;
+  border-right-color: #909497;
+  margin-top: 13px;
+  padding: -5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'Ubuntu', sans-serif;
+  background: #EBF5FB;
+  
+}
+
+#Cuerpo{
+
+  border: inset 5px;
+  border-top-color: #D5F5E3;
+  border-left-color: #D5F5E3;
+  border-bottom-color: #A9DFBF;
+  border-right-color: #A9DFBF;
+  background: #EAFAF1;
+  margin-top: 15px;
+  padding: -5px;
+
+}
+
+.titulos{
+
+  font-size: 27px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: crimson;
+  text-align: center;
+
+}
+
+.subTitulos{
+  
+  font-size: 24px;
+  font-family: 'Poppins', sans-serif;
+  color: #cd4848;
+  text-align: center;
+  
+}
+
+.parrafos1{
+
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+
+}
+
+.Reflexion{
+
+  border: solid black 0px;
+  background: #82E0AA;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+  text-align: center;
+  font-family: 'Sorts Mill Goudy', serif;
+
+}
